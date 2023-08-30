@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="C:\\Users\\rahul\\OneDrive\\Pictures\\WALLPAPERS\\RAHUL VAGAMON 1.jpg" style="height:500px; width:500px" />
+  <img height="200" src="![image](https://github.com/Rahulnisanth/Rahulnisanth/assets/133683060/ea530c8c-3cfe-4711-a9c4-6f752a1d5da5)" style="height:500px; width:500px" />
 </div>
 
 ###
