@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="200" src="![image](https://github.com/Rahulnisanth/Rahulnisanth/assets/133683060/ea530c8c-3cfe-4711-a9c4-6f752a1d5da5)" style="height:500px; width:500px" />
+  <img height="200" src="![image](https://github.com/Rahulnisanth/Rahulnisanth/assets/133683060/202eda36-5ad1-4d83-b38b-3c6604077fac)">
+" />
 </div>
 
 ###
