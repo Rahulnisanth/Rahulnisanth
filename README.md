@@ -1,7 +1,5 @@
 <div align="center">
-  <img height="200" src="[[![image](https://github.com/Rahulnisanth/Rahulnisanth/assets/133683060/e3115361-69c2-493c-a1d2-ec87b9b0e4c5)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPcIbAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzone.com/storage/temp/12334613-971.jpg)](https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg)">
-
-" />
+  <img height="200" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"  />
 </div>
 
 ###
@@ -30,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Rahul Nisanth, Student from SIET<br>- 📚 I'm currently learning my bachelor's degree in computer science and engineering.<br>- ⚡ In my free time I surf and seek for the booming techs and tools.<br>- 🔭 I feel great to adapt myself to any working platforms and workflow so, I seem to be a continous learner. </p>
+<p align="left">I'm Rahul Nisanth student from SIET<br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br>- ⚡ In my free time I surf for the booming tech and tools.<br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
 
 ###
 
