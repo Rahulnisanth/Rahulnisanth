@@ -1,47 +1,45 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"  />
+  <img height="150" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahulnisanth.Rahulnisanth&left_color=lawngreen&right_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahulnisanth.Rahulnisanth&"  />
 </div>
 
 ###
 
-<h1 align="center">! Hey buddy 👋</h1>
+<h1 align="center">! Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About</h2>
 
 ###
 
-<p align="left">I'm Rahul Nisanth student from SIET<br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br>- ⚡ In the upgrading process to become a M E R N stack developer with booming tech and tools.<br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
+<p align="left">I'm Rahul Nisanth, a student from SIET<br><br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br><br>- ⚡ In the upgrading process to become a M E R N stack developer with booming tech and tools.<br><br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Adapted techs & tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -51,11 +49,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Status </h3>
+<h2 align="left">🛠 Inquisting techs & tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h2 align="left">🔥   My Status</h2>
 
 ###
 
