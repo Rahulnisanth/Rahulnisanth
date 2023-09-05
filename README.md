@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Rahul Nisanth student from SIET<br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br>- ⚡ In my free time I surf for the booming tech and tools.<br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
+<p align="left">I'm Rahul Nisanth student from SIET<br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br>- ⚡ In the upgrading process to become a M E R N stack developer with booming tech and tools.<br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
 
 ###
 
