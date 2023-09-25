@@ -6,8 +6,6 @@
 
 <h1 align="center">! Hey there 👋</h1>
 
-###
-
 <h2 align="left">👩‍💻  About</h2>
 
 ###
