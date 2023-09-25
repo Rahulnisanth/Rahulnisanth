@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"  />
+  <img height="400" width="100%" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"  />
 </div>
 
 ###
