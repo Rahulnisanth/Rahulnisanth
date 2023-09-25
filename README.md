@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">🛠 I code with...</h2>
+<h2 align="left">🛠 I Code with...</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">🛠 Inquisting techs & tools</h2>
+<h2 align="left">🛠 Inquisting on...</h2>
 
 ###
 
