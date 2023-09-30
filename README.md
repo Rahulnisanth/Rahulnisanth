@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About</h3>
+<h3 align="left">👩‍💻 < About /></h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 I Code with</h3>
+<h3 align="left">🛠 < I Code with /></h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🛠 Inquisting Stacks</h3>
+<h3 align="left">🛠 < Inquisting Stacks /></h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 < My Stats /></h3>
 
 ###
 
