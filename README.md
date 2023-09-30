@@ -1,12 +1,20 @@
 <div align="center">
-  <img height="400" width="100%" src="https://t4.ftcdn.net/jpg/01/69/56/13/360_F_169561381_OyknorO0aROyTrFCU5LGL8lPob140o6F.jpg"/>
+  <img height="150" width="95%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1696077223~exp=1696077823~hmac=126c12e0b8b6dc2c9f6683a555b3c4d87fd6ba9391bfdb319c98f444c3fdf73f"  />
 </div>
 
 ###
 
-<h1 align="center">! Hey there 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahulnisanth.Rahulnisanth&"  />
+</div>
 
-<h2 align="left">👩‍💻  About</h2>
+###
+
+<h1 align="center">< Hello ! Geek /></h1>
+
+###
+
+<h3 align="left">👩‍💻  About</h3>
 
 ###
 
@@ -14,29 +22,41 @@
 
 ###
 
-<h2 align="left">🛠 I Code with...</h2>
+<h3 align="left">🛠 I Code with</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<h2 align="left">🛠 Inquisting on...</h2>
+<h3 align="left">🛠 Inquisting Stacks</h3>
 
 ###
 
@@ -52,7 +72,7 @@
 
 ###
 
-<h2 align="left">🔥   My Status</h2>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
