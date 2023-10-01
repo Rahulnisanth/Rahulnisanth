@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="95%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1696077223~exp=1696077823~hmac=126c12e0b8b6dc2c9f6683a555b3c4d87fd6ba9391bfdb319c98f444c3fdf73f"  />
+  <img height="400" width="95%" src="https://img.freepik.com/free-vector/data-center-room-with-server-hardware_107791-3683.jpg?w=1380&t=st=1696172200~exp=1696172800~hmac=9ca046ab58e5208b894d577bee194ef191512aae07693e3090fea63a19920fe4"  />
 </div>
 
 ###
