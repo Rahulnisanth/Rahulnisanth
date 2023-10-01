@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">< Hello ! Geek /></h1>
+<h1 align="center">< Hello ! Geeks /></h1>
 
 ###
 
