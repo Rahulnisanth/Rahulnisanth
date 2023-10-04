@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="95%" src="https://img.freepik.com/free-vector/data-center-room-with-server-hardware_107791-3683.jpg?w=1380&t=st=1696172200~exp=1696172800~hmac=9ca046ab58e5208b894d577bee194ef191512aae07693e3090fea63a19920fe4"  />
+  <img height="400" width="95%" src="https://staticdelivery.nexusmods.com/mods/3333/images/headers/620_1609376253.jpg"  />
 </div>
 
 ###
