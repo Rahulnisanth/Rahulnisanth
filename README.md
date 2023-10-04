@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="95%" src="https://staticdelivery.nexusmods.com/mods/3333/images/headers/620_1609376253.jpg"  />
+  <img height="250px" width="100%" src="https://staticdelivery.nexusmods.com/mods/3333/images/headers/620_1609376253.jpg"  />
 </div>
 
 ###
