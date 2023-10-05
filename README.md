@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250px" width="100%" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"  />
+  <img height="200px" width="90%" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"  />
 </div>
 
 ###
