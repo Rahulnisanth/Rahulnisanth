@@ -1,35 +1,11 @@
-<div align="center">
-  <img height="200px" width="90%" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahulnisanth.Rahulnisanth&"  />
-</div>
-
-###
-
-<h1 align="center">< Hello ! Geeks /></h1>
-
-###
-
-<h3 align="left">< About /></h3>
-
-###
-
-<p align="left">I'm Rahul Nisanth, a student from SIET<br><br>- 📚 I'm currently learning my bachelor's degree at computer science and engineering.<br><br>- ⚡ In the upgrading process to become a Full-stack developer with booming M E R N stack tools.<br><br>- 🔭 I feel great to adopt myself to any working platforms and workflow so, I seek to be a continous learner.</p>
-
-###
-
-<h3 align="left">< I Code with /></h3>
+<h1 align="center">👋 Hello Geekz /></h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -37,13 +13,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -52,23 +34,15 @@
 
 ###
 
-<h3 align="left">< Inquisting Stacks /></h3>
+<h3 align="left">🏷️ An Inquisitive & Aspiring Full-Stack Developer with concerned Tech Stacks /></h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+<p align="left">👨‍💻 I'm Rahul Nisanth, a dedicated and enthusiastic second-year Computer Science student actively working towards a Bachelor's degree.<br><br>💪 I possess a strong command over several programming languages:<br>🔺C<br>🔺Python<br>🔺JavaScript<br><br>🌐 Versed with the basic backend fundamentals of dynamic Django & Flask frameworks.<br><br>🔥I'm well-versed in web essentials, including:<br>🔺 HTML<br>🔺CSS<br>🔺SASS<br>🔺Bootstrap 5 toolkit<br>🔺JavaScript<br>🔺JQuery<br><br>🔗 While I'm mastering the intricacies of JavaScript, I'm constantly excited about expanding my skill set among the JavaScript libraries & frameworks.<br><br>📊 Beyond technical prowess, I bring a multifaceted approach to my work.<br><br>📈 With a penchant for project management, I've successfully orchestrated several endeavors, exhibiting my organizational skills and ability to navigate complex challenges.<br><br>💡 As a creative executor, I thrive in ideation and translating concepts into innovative solutions that resonate.<br><br>📚 My passion for learning is an ongoing pursuit, driving me to explore new horizons and continuously refine my expertise.<br><br>🌟 Join me on this journey as I fuse technical proficiency with project management finesse, creative flair, and an unwavering commitment to learning. Let's connect and explore the boundless possibilities that the world of Computer Science has to offer!</p>
 
 ###
 
-<h3 align="left">< My Stats /></h3>
+<h3 align="left">🚀 My Streaks & Contributions /></h3>
 
 ###
 
