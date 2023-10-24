@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="center">🏷️ An Inquisitive & Aspiring Software Developer /></h2>
+<h3 align="center">🏷️ An Inquisitive & Aspiring Software Developer /></h3>
 
 ###
 
