@@ -70,9 +70,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahulnisanth&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub%20stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulnisanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Language%20stats" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulnisanth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Language%20stats" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulnisanth&radius=16&theme=green&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=false&bg_color=black&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area_color=ffffff" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rahulnisanth&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rahulnisanth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
