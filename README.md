@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center">I'm Rahul Nisanth, a dedicated and enthusiastic second-year Computer Science student actively working towards a Bachelor's degree. I possess a strong command over several programming languages such as Python and Java along with some web essentials, including React, Redux, Sass, Tailwind CSS, REST APIs, Django, SQL and MongoDB.<br><br>Beyond technical prowess, I bring a multifaceted approach to my work with a penchant for project management, I've successfully orchestrated several endeavors, exhibiting my problem-solving skills and ability to navigate complex challenges</p>
+<p align="center">I'm Rahul Nisanth, a dedicated and enthusiastic second-year Computer Science student actively working towards a Bachelor's degree. I possess a strong command over several programming languages such as Python and Java along with some web essentials.<br><br>Beyond technical prowess, I bring a multifaceted approach to my work with a penchant for project management, I've successfully orchestrated several endeavors, exhibiting my problem-solving skills and ability to navigate complex challenges</p>
 
 ###
 
