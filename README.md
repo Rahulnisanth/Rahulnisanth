@@ -42,27 +42,7 @@
 
 ###
 
-<p align="center">I'm Rahul Nisanth, a dedicated and enthusiastic second-year Computer Science student actively working towards a Bachelor's degree. I possess a strong command over several programming languages such as Python and Java along with some web essentials, including React, Redux, REST APIs, Django, and MongoDB.<br><br>Beyond technical prowess, I bring a multifaceted approach to my work with a penchant for project management, I've successfully orchestrated several endeavors, exhibiting my organizational skills and ability to navigate complex challenges.Join me on this journey as I fuse technical proficiency with project management finesse, creative flair, and an unwavering commitment to learning. Let's connect and explore the boundless possibilities that the world of Computer Science has to offer!</p>
-
-###
-
-<h3 align="center"><🧩Unceasing TechStacks /></h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/solid/2C4F7C" height="40" alt="solid logo"  />
-</div>
+<p align="center">I'm Rahul Nisanth, a dedicated and enthusiastic second-year Computer Science student actively working towards a Bachelor's degree. I possess a strong command over several programming languages such as Python and Java along with some web essentials, including React, Redux, Sass, Tailwind CSS, REST APIs, Django, SQL and MongoDB.<br><br>Beyond technical prowess, I bring a multifaceted approach to my work with a penchant for project management, I've successfully orchestrated several endeavors, exhibiting my problem-solving skills and ability to navigate complex challenges</p>
 
 ###
 
