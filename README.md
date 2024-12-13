@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rahulnisanth</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working as **software engineer @AboveCloud9⛅️**
+🔭 I’m currently working as **software engineer @AboveCloud9⛅️**
 
-- 🌱 I’m currently learning **backend development using GoLang and also focusing on System design**
+🌱 I’m currently learning **backend development using GoLang and also focusing on System design**
 
-- 👯 I’m looking to collaborate on **innovative software projects**
+👯 I’m looking to collaborate on **innovative software projects**
 
-- 🤝 I’m looking for help with [Synapses - The Chat Application](https://synapses-chat-app.vercel.app/)
+🤝 I’m looking for help with [Synapses - The Chat Application](https://synapses-chat-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [rahulnisanth.netlify.app](rahulnisanth.netlify.app)
+👨‍💻 All of my projects are available at [rahulnisanth.netlify.app](rahulnisanth.netlify.app)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/rahul-nisanth](www.linkedin.com/in/rahul-nisanth)
+📝 I regularly write articles on [www.linkedin.com/in/rahul-nisanth](www.linkedin.com/in/rahul-nisanth)
 
-- 💬 Ask me about **MERN Stack and Cross-Platform Dev**
+💬 Ask me about **MERN Stack and Cross-Platform Dev**
 
-- 📫 How to reach me **rahulnisanthmuthukumar@gmail.com**
+📫 How to reach me **rahulnisanthmuthukumar@gmail.com**
 
-- 📄 Know about my experiences [rahulnisanth.netlify.app](rahulnisanth.netlify.app)
+📄 Know about my experiences [rahulnisanth.netlify.app](rahulnisanth.netlify.app)
 
-- ⚡ Fun fact **🐛 The first computer bug was literally a bug!**
+⚡ Fun fact **🐛 The first computer bug was literally a bug!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
